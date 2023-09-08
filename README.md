@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mila1601
 - 👀 I’m interested in процесс создания интересных фото коллажей 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ..
+- 💞️ I’m looking to collaborate on с интересными людьми...
   
 
 <!---
